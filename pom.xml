@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.wsy</groupId>
+    <artifactId>pass-cse</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <description>Pass Civil Service Exam</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>pass-cse-content</module>
+        <module>pass-cse-member</module>
+        <module>pass-cse-question</module>
+        <module>pass-cse-study</module>
+        <module>pass-cse-channel</module>
+    </modules>
+</project>
